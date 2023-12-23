@@ -24,3 +24,5 @@ Ready to embark on a journey of innovation, entertainment, and artistic expressi
 
 🎮✨ Let the adventure begin! ✨🎮
 
+[web](https://zemi-studio-s.github.io/test/)
+
