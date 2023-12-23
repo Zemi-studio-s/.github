@@ -1,7 +1,7 @@
 # Welcome to Zemi Studios
 
 ## About Us
-Welcome to **Zemi Studios**, where creativity meets innovation in the world of digital experiences. We are a passionate and dynamic team of professionals dedicated to crafting immersive and engaging content across various platforms.
+Welcome to **[Zemi Studios](https://zemi-studio-s.github.io/test/)**, where creativity meets innovation in the world of digital experiences. We are a passionate and dynamic team of professionals dedicated to crafting immersive and engaging content across various platforms.
 
 ## Our Mission
 At Zemi Studios, our mission is to push the boundaries of creativity and technology, delivering unique and memorable experiences to our audience. Whether it's captivating games, interactive applications, or cutting-edge multimedia content, we strive to leave a lasting impact on the digital landscape.
@@ -24,5 +24,5 @@ Ready to embark on a journey of innovation, entertainment, and artistic expressi
 
 🎮✨ Let the adventure begin! ✨🎮
 
-[web](https://zemi-studio-s.github.io/test/)
+
 
